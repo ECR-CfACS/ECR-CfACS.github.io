@@ -53,3 +53,17 @@ body{
 .cfacs-profile-img{
   max-width: 200px; 
 }
+
+.cfacs-links{
+  color: white;
+}
+
+.cfacs-links:hover{
+  color: white;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.cfacs-icon{
+  padding-right: 1.5rem;
+}
