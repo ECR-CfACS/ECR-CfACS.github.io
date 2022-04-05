@@ -1,0 +1,55 @@
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+body{
+  padding-top: 2.5rem;
+  background-color: black;
+  font-family: Serifa,Constantia,Lucida Bright,Lucidabright,Lucida Serif,Lucida,DejaVu Serif,Bitstream Vera Serif,Liberation Serif,Georgia,serif;
+  font-size: large;
+}
+
+.jumbotron{
+  background-color: #505759 !important;  
+  color: whitesmoke;    
+  margin-bottom: 0rem;
+}
+
+.cfacs-banner-img{
+  background-image: url("img/cfacs-ai.png");
+  background-repeat: no-repeat;
+}
+
+.cfacs-banner{
+  text-shadow: 0.15rem 0.15rem #505759;
+  width: 85%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.cfacs-container{
+  padding-top: 1.5rem;
+  background-color: white;
+  display: block;
+}
+
+.cfacs-footer{
+  color:white;
+}
+
+.cfacs-btn-yellow{
+  background-color: #FFCD00 !important;
+  border-color: #FFCD00 !important;
+  color: black !important;
+  text-shadow: none;
+}
+
+.cfacs-profile{
+  margin-right: 3rem;
+  margin-left: 3rem;
+  text-align: center;
+  font-style: italic;  
+}
+
+.cfacs-profile-img{
+  max-width: 200px; 
+}
