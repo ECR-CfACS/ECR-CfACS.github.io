@@ -1,6 +1,6 @@
 /* Move down content because we have a fixed navbar that is 3.5rem tall */
 body{
-  padding-top: 2.5rem;
+  padding-top: 1.5rem;
   background-color: black;
   font-family: Serifa,Constantia,Lucida Bright,Lucidabright,Lucida Serif,Lucida,DejaVu Serif,Bitstream Vera Serif,Liberation Serif,Georgia,serif;
   font-size: large;
@@ -10,20 +10,22 @@ body{
   background-color: #505759 !important;  
   color: whitesmoke;    
   margin-bottom: 0rem;
+  height: 17%;
 }
 
 .cfacs-banner-img{
-  background-image: url("img/cfacs-ai.png");
+  background-image: url("img/cfacs-ai-medium.png");
   background-repeat: no-repeat;
+  float:right;
 }
 
 .cfacs-banner{
   text-shadow: 0.15rem 0.15rem #505759;
-  width: 85%;
+  width: 90%;
   padding-right: 15px;
   padding-left: 15px;
-  margin-right: auto;
-  margin-left: auto;
+  margin-right: 8%;
+  margin-left: 10%;
 }
 
 .cfacs-container{
