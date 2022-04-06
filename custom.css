@@ -51,6 +51,12 @@ body{
   color:white;
 }
 
+.cfacs-info{
+  color:white;
+  background-color: #242424;
+  text-align: center;
+}
+
 .cfacs-btn-yellow{
   background-color: #FFCD00 !important;
   border-color: #FFCD00 !important;
