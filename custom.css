@@ -77,7 +77,8 @@ body{
 }
 
 .cfacs-links{
-  color: white;
+  /* color: white; */
+  color: #759CC9;
   font-weight: bold;
 }
 
