@@ -91,3 +91,13 @@ body{
 .cfacs-icon{
   padding-right: 1.5rem;
 }
+
+.table-talk-theme{
+  background-color:#98AFC7;
+  color: white;
+}
+
+.table-break-event{
+  background-color: royalblue;
+  color: white;
+}
